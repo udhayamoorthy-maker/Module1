@@ -1,6 +1,6 @@
-#NAME : Dhivya Dharshini P
-#REGISTER NUMBER : 25017613
-#DATE:19-10-25 
+#NAME : udhayamoorthy A
+#REGISTER NUMBER : 25004153
+#DATE:19-12-25 
 #Ex 01: Conditional Statements in Python: Even or Odd Checker
 ## 🎯 Aim
 To write a Python program to check whether the given number is **even** or **odd** using `if...else` statements.

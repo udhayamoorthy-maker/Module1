@@ -112,7 +112,7 @@ print(x.imag)
 ## Result
 Therefore the given Python Program has been executed succeefully and the output has been verified.
 
-#EX 5:Datatypes-Read and Print a String in Python
+# EX 5:Datatypes-Read and Print a String in Python
 
 ## 🎯 Aim
 To write a Python program to read a string from the user and then print it.
